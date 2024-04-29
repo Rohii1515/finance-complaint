@@ -1,0 +1,11 @@
+requests
+jupyterlab
+pyspark
+PyYAML
+ipykernel
+boto3
+pandas
+pymongo[srv]
+apache-airflow
+kubernetes
+-e .
